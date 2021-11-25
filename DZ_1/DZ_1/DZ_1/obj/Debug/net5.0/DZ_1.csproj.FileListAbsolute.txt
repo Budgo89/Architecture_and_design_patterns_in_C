@@ -1,0 +1,16 @@
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\DZ_1.exe
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\DZ_1.deps.json
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\DZ_1.runtimeconfig.json
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\DZ_1.runtimeconfig.dev.json
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\DZ_1.dll
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\ref\DZ_1.dll
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\bin\Debug\net5.0\DZ_1.pdb
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.csproj.AssemblyReference.cache
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.AssemblyInfoInputs.cache
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.AssemblyInfo.cs
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.csproj.CoreCompileInputs.cache
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.dll
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\ref\DZ_1.dll
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.pdb
+D:\Unity\Architecture and design patterns in C#\DZ_1\DZ_1\DZ_1\obj\Debug\net5.0\DZ_1.genruntimeconfig.cache
